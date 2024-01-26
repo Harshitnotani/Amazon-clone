@@ -6,6 +6,7 @@
 }
 .navbar{
     height: 60px;
+    width: 100%;
     background: #0f1111;
     color: white;
     display: flex;
@@ -96,6 +97,7 @@ span{
 }
 .panal{
     height: 40px;
+    width: 100%;
     background-color: #222f3d;
     display: flex;
     color: white;
